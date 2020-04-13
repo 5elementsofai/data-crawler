@@ -1,0 +1,12 @@
+{
+    "modules": {
+        "linkedin": {
+            "username": "",
+            "password": ""
+        },
+        "xing": {
+            "username": "",
+            "password": ""
+        }
+    }
+}

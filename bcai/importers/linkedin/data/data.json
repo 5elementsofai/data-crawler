@@ -1,0 +1,1429 @@
+{
+    "data": {
+        "metadata": {
+            "searchId": "3f8331fc-ae1f-48f3-a972-1b586bb09731",
+            "totalResultCount": 125,
+            "origin": "OTHER",
+            "numVisibleResults": 10,
+            "$type": "com.linkedin.voyager.search.BlendedSearchMetadata"
+        },
+        "entityUrn": "urn:li:collectionResponse:viilbFJ5tlyfd9N5G4n/OIYjKsL8ID5Vzru9qUXE2k8=",
+        "elements": [
+            {
+                "extendedElements": [],
+                "elements": [
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_3",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAACqDRRgB_LhHEOaszJOz_-8XLba6JPp_ZR4",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAACqDRRgB_LhHEOaszJOz_-8XLba6JPp_ZR4",
+                        "socialProofImagePile": [],
+                        "trackingUrn": "urn:li:member:713245976",
+                        "navigationUrl": "https://www.linkedin.com/in/julius-deuringer-108a4617a",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Julius Deuringer",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "0 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "3.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAACqDRRgB_LhHEOaszJOz_-8XLba6JPp_ZR4",
+                        "publicIdentifier": "julius-deuringer-108a4617a",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "International Business (B.Sc.)",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Stuttgart und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "Xb0H5EPcT2qgdm++4EsKxw=="
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_3",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAAAc7GVMBk7bOvZodMTRoo8baNj4deoHrgjI",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAAAc7GVMBk7bOvZodMTRoo8baNj4deoHrgjI",
+                        "socialProofImagePile": [],
+                        "trackingUrn": "urn:li:member:121313619",
+                        "navigationUrl": "https://www.linkedin.com/in/kieen",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Trung Kien Tran",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "0 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "3.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAAAc7GVMBk7bOvZodMTRoo8baNj4deoHrgjI",
+                        "publicIdentifier": "kieen",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Researcher at Bosch Center for Artificial Intelligence (BCAI)",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "zwRg8UEmT5urb6GK+K8ozg=="
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_3",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAAA_Ga8sBG5bsQJzZQfgLp_ePAsWw2xvn8mQ",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAAA_Ga8sBG5bsQJzZQfgLp_ePAsWw2xvn8mQ",
+                        "socialProofImagePile": [],
+                        "trackingUrn": "urn:li:member:264661963",
+                        "navigationUrl": "https://www.linkedin.com/in/mehdi-noroozi-a3777474",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Mehdi Noroozi",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "0 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "3.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAAA_Ga8sBG5bsQJzZQfgLp_ePAsWw2xvn8mQ",
+                        "publicIdentifier": "mehdi-noroozi-a3777474",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Research Scientist at Bosch Center for Artificial Intelligence (BCAI)",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "X74qwCIUQ/mVaghKOSSk7Q=="
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_3",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAACv9hOsBjV11KNpFKziuUOg-E3-N6hid18s",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAACv9hOsBjV11KNpFKziuUOg-E3-N6hid18s",
+                        "socialProofImagePile": [],
+                        "trackingUrn": "urn:li:member:738034923",
+                        "navigationUrl": "https://www.linkedin.com/in/abinaya-kumar-6631bb187",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Abinaya Kumar",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "0 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "3.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAACv9hOsBjV11KNpFKziuUOg-E3-N6hid18s",
+                        "publicIdentifier": "abinaya-kumar-6631bb187",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Master Thesis Student at Bosch Center for Artificial Intelligence (BCAI)",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Stuttgart und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "C4HcwFrFRMOaSDYbtAX0jg=="
+                    },
+                    {
+                        "headless": true,
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAJTuvpVcB5qxnBDCkDQrEkJ2ahmO75by4wBI",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAJTuvpVcB5qxnBDCkDQrEkJ2ahmO75by4wBI",
+                        "trackingUrn": "urn:li:member:headless",
+                        "navigationUrl": "https://www.linkedin.com/in/UNKNOWN",
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "LinkedIn Mitglied",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Praktikant Marketing Kommunikation bei Bosch Center for Artificial Intelligence (BCAI)",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Stuttgart und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "Z/YTDgobSOeS4v945XP6uA==",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2"
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_2",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAAALMtZcBKaZf7ULr57hjc2Gl6cplnU-Y_nA",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAAALMtZcBKaZf7ULr57hjc2Gl6cplnU-Y_nA",
+                        "socialProofImagePile": [
+                            {
+                                "attributes": [
+                                    {
+                                        "sourceType": "PROFILE_PICTURE",
+                                        "*miniProfile": "urn:li:fs_miniProfile:ACoAAAAqZ_wB6rTw-8ci1ktqDAVRd43KFHLCp6c",
+                                        "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                    }
+                                ],
+                                "accessibilityTextAttributes": [],
+                                "$type": "com.linkedin.voyager.common.ImageViewModel"
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "sourceType": "PROFILE_PICTURE",
+                                        "*miniProfile": "urn:li:fs_miniProfile:ACoAAAA4N_IBdGfNbhsUJ1UryPH4NrENpKWEbTs",
+                                        "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                    }
+                                ],
+                                "accessibilityTextAttributes": [],
+                                "$type": "com.linkedin.voyager.common.ImageViewModel"
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "sourceType": "PROFILE_PICTURE",
+                                        "*miniProfile": "urn:li:fs_miniProfile:ACoAABAEIywB2gOC3r-C36AoMG5qrgokpcSNjxY",
+                                        "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                    }
+                                ],
+                                "accessibilityTextAttributes": [],
+                                "$type": "com.linkedin.voyager.common.ImageViewModel"
+                            }
+                        ],
+                        "trackingUrn": "urn:li:member:46970263",
+                        "navigationUrl": "https://www.linkedin.com/in/christoph-roescher-a4789113",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Christoph Roescher",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "8 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "2.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAAALMtZcBKaZf7ULr57hjc2Gl6cplnU-Y_nA",
+                        "publicIdentifier": "christoph-roescher-a4789113",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Bosch Center for Artificial Intelligence",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Stuttgart und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "kc78QE1WTvS/SapyEzd6ng=="
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_2",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAAA-8hP4BXOGlGqnAkp4arhoSdanvw38kyY0",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAAA-8hP4BXOGlGqnAkp4arhoSdanvw38kyY0",
+                        "socialProofImagePile": [
+                            {
+                                "attributes": [
+                                    {
+                                        "sourceType": "PROFILE_PICTURE",
+                                        "*miniProfile": "urn:li:fs_miniProfile:ACoAAAnbT0MBCxFhImtAPFAQ7v8mwUkzkeMUDrg",
+                                        "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                    }
+                                ],
+                                "accessibilityTextAttributes": [],
+                                "$type": "com.linkedin.voyager.common.ImageViewModel"
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "sourceType": "PROFILE_PICTURE",
+                                        "*miniProfile": "urn:li:fs_miniProfile:ACoAAB-GtvoBVJwxUSo-7lxUw40rruDOU70veA0",
+                                        "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                    }
+                                ],
+                                "accessibilityTextAttributes": [],
+                                "$type": "com.linkedin.voyager.common.ImageViewModel"
+                            }
+                        ],
+                        "trackingUrn": "urn:li:member:264013054",
+                        "navigationUrl": "https://www.linkedin.com/in/dbadrian",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "David Adrian",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "2 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "2.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAAA-8hP4BXOGlGqnAkp4arhoSdanvw38kyY0",
+                        "publicIdentifier": "dbadrian",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Doctoral Student",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Stuttgart und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "pi1Qge2gSvWTUEwf8pBigg=="
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_2",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAABEGluYBgiHWDRt3kfI-vcucvN5Ic3RKEeQ",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAABEGluYBgiHWDRt3kfI-vcucvN5Ic3RKEeQ",
+                        "socialProofImagePile": [
+                            {
+                                "attributes": [
+                                    {
+                                        "sourceType": "PROFILE_PICTURE",
+                                        "*miniProfile": "urn:li:fs_miniProfile:ACoAABEqV-gBhceIwhqnncT2iNur5OLJx9Vma3A",
+                                        "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                    }
+                                ],
+                                "accessibilityTextAttributes": [],
+                                "$type": "com.linkedin.voyager.common.ImageViewModel"
+                            }
+                        ],
+                        "trackingUrn": "urn:li:member:285644518",
+                        "navigationUrl": "https://www.linkedin.com/in/yamuna-rajaiah-65a7b37b",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Yamuna Rajaiah",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "1 gemeinsamer Kontakt",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "2.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAABEGluYBgiHWDRt3kfI-vcucvN5Ic3RKEeQ",
+                        "publicIdentifier": "yamuna-rajaiah-65a7b37b",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Intern at Bosch Center for Artificial Intelligence (BCAI)",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Stuttgart und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "uCTak1KzQaWlngjFLE03Ig=="
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_3",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAACmjLAUBlAXijL3hJT6-Y58JdGPcTzb_Usc",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAACmjLAUBlAXijL3hJT6-Y58JdGPcTzb_Usc",
+                        "socialProofImagePile": [],
+                        "trackingUrn": "urn:li:member:698559493",
+                        "navigationUrl": "https://www.linkedin.com/in/zi-yang-b71b42175",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Zi Yang",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "0 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "3.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAACmjLAUBlAXijL3hJT6-Y58JdGPcTzb_Usc",
+                        "publicIdentifier": "zi-yang-b71b42175",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Master-Student at Technical University Munich",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "München und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "8XjsRQR+QYGi5F9u2bsntQ=="
+                    },
+                    {
+                        "memberDistance": {
+                            "value": "DISTANCE_3",
+                            "$type": "com.linkedin.voyager.common.MemberDistance"
+                        },
+                        "image": {
+                            "attributes": [
+                                {
+                                    "sourceType": "PROFILE_PICTURE",
+                                    "*miniProfile": "urn:li:fs_miniProfile:ACoAABMy7MoBXgi11Q7QyVQDgd9sKiOMBizkbfI",
+                                    "$type": "com.linkedin.voyager.common.ImageAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributes": [],
+                            "$type": "com.linkedin.voyager.common.ImageViewModel"
+                        },
+                        "targetUrn": "urn:li:fs_miniProfile:ACoAABMy7MoBXgi11Q7QyVQDgd9sKiOMBizkbfI",
+                        "socialProofImagePile": [],
+                        "trackingUrn": "urn:li:member:322104522",
+                        "navigationUrl": "https://www.linkedin.com/in/oscar-sten-0b6a578b",
+                        "title": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Oscar Sten",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "type": "PROFILE",
+                        "$type": "com.linkedin.voyager.search.SearchHitV2",
+                        "headless": false,
+                        "socialProofText": "0 gemeinsame Kontakte",
+                        "secondaryTitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "3.",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "*badges": "urn:li:fs_memberBadges:ACoAABMy7MoBXgi11Q7QyVQDgd9sKiOMBizkbfI",
+                        "publicIdentifier": "oscar-sten-0b6a578b",
+                        "headline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Master Thesis Student at Bosch Center for Artificial Intelligence (BCAI)",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "nameMatch": false,
+                        "subline": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Stuttgart und Umgebung, Deutschland",
+                            "$type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "trackingId": "M0UWtzKyRziFZWP/yz/gjA=="
+                    }
+                ],
+                "type": "SEARCH_HITS",
+                "$type": "com.linkedin.voyager.search.BlendedSearchCluster"
+            }
+        ],
+        "paging": {
+            "total": 125,
+            "count": 10,
+            "start": 20,
+            "links": []
+        },
+        "$type": "com.linkedin.restli.common.CollectionResponse"
+    },
+    "included": [
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAABEGluYBgiHWDRt3kfI-vcucvN5Ic3RKEeQ",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAAA_Ga8sBG5bsQJzZQfgLp_ePAsWw2xvn8mQ",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAABMy7MoBXgi11Q7QyVQDgd9sKiOMBizkbfI",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAAA-8hP4BXOGlGqnAkp4arhoSdanvw38kyY0",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAACmjLAUBlAXijL3hJT6-Y58JdGPcTzb_Usc",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAACqDRRgB_LhHEOaszJOz_-8XLba6JPp_ZR4",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAAALMtZcBKaZf7ULr57hjc2Gl6cplnU-Y_nA",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAACv9hOsBjV11KNpFKziuUOg-E3-N6hid18s",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "premium": false,
+            "influencer": false,
+            "entityUrn": "urn:li:fs_memberBadges:ACoAAAc7GVMBk7bOvZodMTRoo8baNj4deoHrgjI",
+            "openLink": false,
+            "jobSeeker": false,
+            "$type": "com.linkedin.voyager.identity.profile.MemberBadges"
+        },
+        {
+            "firstName": "Vladislav",
+            "lastName": "Svetashkov",
+            "occupation": "Founder and CEO at brezzl. GmbH, Winner Red Dot Design Award 2018",
+            "objectUrn": "urn:li:member:165367619",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAnbT0MBCxFhImtAPFAQ7v8mwUkzkeMUDrg",
+            "backgroundImage": {
+                "artifacts": [
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "200_800/0?e=1573689600&amp;v=beta&amp;t=YInpL4-IAsl_crgf3cj4podxDL62267ttHZvGLoWZ9E",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 1400,
+                        "fileIdentifyingUrlPathSegment": "350_1400/0?e=1573689600&amp;v=beta&amp;t=1ddvppzeR6G9gIAdrJnUcD-wmdeXgIuPg2Ph3tTWJvc",
+                        "expiresAt": 1573689600000,
+                        "height": 350,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQHzbcHKVe7MNA/profile-displaybackgroundimage-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "svetashkov",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=4ZjBkNFyJjQfKseyBjuGTI16ROB3zVE4VaqqNCYM7ZI",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=5RT6ysnpvFhyl9LqOEs8kH-og1alQ8aHk_fsSUS7q4E",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=7FcCH-w-So2H1BD8oizv3XB3J21llYt9RjPCY1bjoDg",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=qF6Dc1Q0IWieRkzDmuk2bOSDoCzOeejPYY3WJyoYkBQ",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C5603AQEHoIdVbR4BaA/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "6yFg10cASJO6uf2/Z4YZ1g==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Zi",
+            "lastName": "Yang",
+            "occupation": "Master-Student at Technical University Munich",
+            "objectUrn": "urn:li:member:698559493",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAACmjLAUBlAXijL3hJT6-Y58JdGPcTzb_Usc",
+            "backgroundImage": null,
+            "publicIdentifier": "zi-yang-b71b42175",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=IMbwP-ap2V5axwFjoj7RYftWJDv5GXq9ijRK4jGzy_I",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=Dw3LIIl6gPQeXdgtm1ntC93SMi1uq0wzh5fzlesVJac",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=vPpgmZ2A51ONzlNoD2io7mA_aXpIo1XpT98f9mI2GJc",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=oyF7NwiOT2poO2hCiQMg-zMRa_cRO8Ff_AiZB3seCCY",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQFdyoMgMInaqA/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "wjPRVBt/RymXHU4882jDSw==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "",
+            "lastName": "",
+            "occupation": "Praktikant Marketing Kommunikation bei Bosch Center for Artificial Intelligence (BCAI)",
+            "objectUrn": "urn:li:member:159915156823",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAJTuvpVcB5qxnBDCkDQrEkJ2ahmO75by4wBI",
+            "backgroundImage": null,
+            "publicIdentifier": "UNKNOWN",
+            "picture": null,
+            "trackingId": "Re1T/OdUQUi2uVdT1SD1qg==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Julius",
+            "lastName": "Deuringer",
+            "occupation": "International Business (B.Sc.)",
+            "objectUrn": "urn:li:member:713245976",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAACqDRRgB_LhHEOaszJOz_-8XLba6JPp_ZR4",
+            "backgroundImage": null,
+            "publicIdentifier": "julius-deuringer-108a4617a",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=maKFI8fRU_Sum2W8swjhsIlhdyvGJHNgpzt95RZh44Y",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=KNVHQ-JU4VbtuKar3RbqgyHk1MTvDCYpcGMRnCCKZRI",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=b6VDflHjelVMkiPNMXJd3CUvGN-qLxkV7pw0H1sC_0w",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=JuLjHNxkTcHe3_U3UCNiDKHkPFOaBAffH3yEqJ1oe0g",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHI25N8_0erZQ/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "n9v2Nob4TgyAe3z2EpLpYg==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Trung Kien",
+            "lastName": "Tran",
+            "occupation": "Researcher at Bosch Center for Artificial Intelligence (BCAI)",
+            "objectUrn": "urn:li:member:121313619",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAc7GVMBk7bOvZodMTRoo8baNj4deoHrgjI",
+            "backgroundImage": null,
+            "publicIdentifier": "kieen",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=rrPU8IuJ09ufVdLeir3P7-dSkCZqnZmgbLhH52TcvuU",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=qEKlrqz2maO7Rit8B8uzY8KqBy5oikI4Txb9uJQmu1g",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=MQ4Iwu78CyMFRGOKRL6Nt5Xzu2ni_Lm-yPk0td6ohkQ",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=wi0ueq3ZKFGwEx4rNEqUNbN_hjBQDBr2K3esX89Jtis",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C5603AQEZJ3BeRc_6EA/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "WqHNJuaCTjaFW1AG+ZypAA==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Oscar",
+            "lastName": "Sten",
+            "occupation": "Master Thesis Student at Bosch Center for Artificial Intelligence (BCAI)",
+            "objectUrn": "urn:li:member:322104522",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAABMy7MoBXgi11Q7QyVQDgd9sKiOMBizkbfI",
+            "backgroundImage": null,
+            "publicIdentifier": "oscar-sten-0b6a578b",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=zZxAKqIN3qjT7uANDNd8rQcuTnrj_k4YIMFovopPz9Y",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=mtqFpKzEymJjLQcaeY3IsNDwC86WDw3JocAu9Qfvhnk",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=bVbcNIL_7YOVtllFCZjVMby5p8oRstM_BdHvt00C27g",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=RvAj2zvMnvugtEyiCBJ_2Auvyn4A5xxU1IVatrxI1PQ",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGxJ66YOmolUw/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "m1+YdVg+QD+b+Oupkxpqrg==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Mendler",
+            "occupation": "Digitalisierung, KI, Innovation, Open Innovation, Industrie Wirtschaftsministerium BW",
+            "objectUrn": "urn:li:member:268706604",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAABAEIywB2gOC3r-C36AoMG5qrgokpcSNjxY",
+            "backgroundImage": null,
+            "publicIdentifier": "peter-mendler-610ba575",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=6jj2SIzJ0ChuDnaMePGzeQ9DhRmDxRFhMTXWlm5t0zs",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=ftNniNd8D4o4ABpLp2pDoy_ckJXQvY_yiAIQ2RYr2SU",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=-Zw6C_77TdZoaT_IpGSwhbGq30e_DQDvmT87zwpJ6gw",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=xSutLMBSOC0plmIU-BwwSV__2LcgwSKkudeGKiGzHns",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQG_9IBCpze1GQ/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "iaJKTyiqTZ+K5aa+Ht915A==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Christoph",
+            "lastName": "Roescher",
+            "occupation": "Bosch Center for Artificial Intelligence",
+            "objectUrn": "urn:li:member:46970263",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAALMtZcBKaZf7ULr57hjc2Gl6cplnU-Y_nA",
+            "backgroundImage": null,
+            "publicIdentifier": "christoph-roescher-a4789113",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=j0NUMlFEaPZCNsp1hEdpZ182vveZBjCzNSaGQhQVm5Y",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=ysY6zg46FMRUSYk4dYPSn0HXm9MwMOUqRE80P1IIk8g",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=dghjpDz3Wg0XTnGdvi-RxjidnPWRQo9FU859fGe9nQ8",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=pPXg-TgIlhLFqqV6TDdcz9IJMK5EtlSeuxJ_iY_lbZ4",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHFbq-f7aWiCg/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "UOmw5Ec1QOy3GR+z8jfAaQ==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Abinaya",
+            "lastName": "Kumar",
+            "occupation": "Master Thesis Student at Bosch Center for Artificial Intelligence (BCAI)",
+            "objectUrn": "urn:li:member:738034923",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAACv9hOsBjV11KNpFKziuUOg-E3-N6hid18s",
+            "backgroundImage": null,
+            "publicIdentifier": "abinaya-kumar-6631bb187",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=dVcunmvcMC7CTPi21HhpjMEgev5HVlNCtUH6N7KDqc4",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=uBPdRmrDtMTzJi6HlnF8OtKgtGYsyxbFxZjU0QYkBLA",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=sfF1gFQcLPE9NSHR0UZRkfn614zaVQtaoOYxfOyaZe8",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=hNd-pxMQNJYXfdce2pFRz45ywIwO_KfMKTBFpkYUaW8",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C5603AQE_0yf97ltQrw/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "P/YuxMmrTT6hQlxHxXfpGQ==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Christoph",
+            "lastName": "Joos",
+            "occupation": "Partner, Member of the Board of Management, Head of People &amp; Communication at MHP - A Porsche Company",
+            "objectUrn": "urn:li:member:2779132",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAqZ_wB6rTw-8ci1ktqDAVRd43KFHLCp6c",
+            "backgroundImage": {
+                "artifacts": [
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "200_800/0?e=1573689600&amp;v=beta&amp;t=PwvnRqHDvX6Sjs1Izt6QZhWIiihxpIX4VcYPufEVmKg",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 1400,
+                        "fileIdentifyingUrlPathSegment": "350_1400/0?e=1573689600&amp;v=beta&amp;t=CL9ds2H11Ioy2ETwDt8KdtniSPWnDU8cJnNTXuHs_jE",
+                        "expiresAt": 1573689600000,
+                        "height": 350,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQHdsK_MwLfAWA/profile-displaybackgroundimage-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "christoph-joos-364b20",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=hMgRo7MEpDm4yliGAyCXin9Wbuc0ZlV6CdDKgST8ZmQ",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=xNQCENHoaqWPJc9bmlvUnDyTIrx6CDzUF2DvP9skzcA",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=f8eR6im71YCNgtgIullNSigTPq99FjsSTYkv_fT6UTA",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=Z7GSvw3NvKmNWgWUr2dGLkBKvi65QHoeF4vLkgOHxQc",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQFLG9b3hG4EsQ/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "yNxqwuZrRGGOTyLI5lnpYw==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Lucas",
+            "lastName": "Spreiter",
+            "occupation": "Ingentrepreneur - Co-Founder of Unetiq",
+            "objectUrn": "urn:li:member:287987688",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAABEqV-gBhceIwhqnncT2iNur5OLJx9Vma3A",
+            "backgroundImage": {
+                "artifacts": [
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "200_800/0?e=1573689600&amp;v=beta&amp;t=mjG1cQ-QxMFzQm0wPwVQ1oJlJqDbZ8xbmOzESMZkuFg",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 1400,
+                        "fileIdentifyingUrlPathSegment": "350_1400/0?e=1573689600&amp;v=beta&amp;t=YuAWVWV33yKLN09OGBPtSNF2GFytXw1uPz3NSxCIp3g",
+                        "expiresAt": 1573689600000,
+                        "height": 350,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQFjlVYI5WPhjA/profile-displaybackgroundimage-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "lucas-spreiter",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=oFawkdMCDaSXZrqnwqzEssD5D3WGt_CL5MZoOXldWcs",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=Cm7c43AhhfxOLknCdW4K4gTnUqQh6nHp5Khf-jh20Kg",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=-HYcXanSyMHFoQhbpHSoSAHczJm2cw7wzgJzuZCWc1Q",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=BzWg3D9KOpAHPt95Hkewo7gfyEnJZDcoxmpbqP7QQ44",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQEd1u4qCa2-Pg/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "4I+whQ2ITCWpVCvHV5RfLQ==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Philipp",
+            "lastName": "Skogstad",
+            "occupation": "President and CEO | Mercedes-Benz Research &amp; Development North America",
+            "objectUrn": "urn:li:member:3684338",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA4N_IBdGfNbhsUJ1UryPH4NrENpKWEbTs",
+            "backgroundImage": {
+                "artifacts": [
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "200_800/0?e=1573689600&amp;v=beta&amp;t=BhcB_DjZzvGIo1Rq1nl5JmtZJlfKMJ_9IkbPY8HRdPU",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 1400,
+                        "fileIdentifyingUrlPathSegment": "350_1400/0?e=1573689600&amp;v=beta&amp;t=QkIrCyQRqBs6s1xNFZkIfzqVatgk3JYmm1EKsuFkYfY",
+                        "expiresAt": 1573689600000,
+                        "height": 350,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C5116AQH5l3olXTt6kw/profile-displaybackgroundimage-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "philippskogstad",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=I5pz_Py8kIeiOgWsfpZ94N7gTLyboo67vyj7ueu0nW8",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=2Xq0JLzyKLBlEeMQO9JSlIvSTr1f-_FhXwwpQXtFbHE",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=OPZieQcLQsNgTvKPzDZCqQMlZf_CmrwJnv-DGe8In0o",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=mqA1LJm5lQPScltX2r-EvEbw5xrDRLUXQ8D_UM2omhc",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C5103AQEy5ZOouEZ3Ag/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "TB2mhA8lSAGmriZlNvlHjQ==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Bernhard",
+            "lastName": "Kalhammer",
+            "occupation": "Managing Partner bei Kalhammer &amp; von Grafenstein | kuvg.de",
+            "objectUrn": "urn:li:member:528922362",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAB-GtvoBVJwxUSo-7lxUw40rruDOU70veA0",
+            "backgroundImage": {
+                "artifacts": [
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "200_800/0?e=1573689600&amp;v=beta&amp;t=3uwqI7__E-q2_Clilj7U1WNF71zNKMh2mcXMDYhtewM",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 1400,
+                        "fileIdentifyingUrlPathSegment": "350_1400/0?e=1573689600&amp;v=beta&amp;t=Q0u6nOpLHGHYSq4dqNxrQfe4_vMQpUYGQm2bkSrWPe4",
+                        "expiresAt": 1573689600000,
+                        "height": 350,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQG1p0eocuHCUw/profile-displaybackgroundimage-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "bernhardkalhammer",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=X9xxl8GgwZ0gElTNarsa1MXOElXAUqsc_XABDmSlzDI",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=4o9RZEAKBOLmLgjxWI2G4oZO8V57Cndc_3S48-nJcyc",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=Tc8wVKqMMjyWZMvghzVOX6uobYcK0FokNOqrSnK79KI",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=6LQH4S7iGLt3fNZKjDCY_fFCrx0Cj1CZ3u7OmxgHCmw",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C5603AQFJVPqqwO1x3w/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "bDYY8/eYQ/SkBgNJGNEA9Q==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Mehdi",
+            "lastName": "Noroozi",
+            "occupation": "Research Scientist at Bosch Center for Artificial Intelligence (BCAI)",
+            "objectUrn": "urn:li:member:264661963",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAA_Ga8sBG5bsQJzZQfgLp_ePAsWw2xvn8mQ",
+            "backgroundImage": null,
+            "publicIdentifier": "mehdi-noroozi-a3777474",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=qVzjqQd4vQB4DimJB1aHMpXjO0j7okstzr5HfnkTQdU",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=BucW-wPuU46P0A0GCUo_dKwLUjV9VoMb84_bXL-9WW8",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=1URHgT31xDAqde0wDF3OhkwMYvjzc4VLCRTBXJJ139E",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=Os1rOyOZ2k6Bx8I0ltvO7zNgl4LZSNPhz0SywuLSBdY",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C5603AQE6akGZRgifdQ/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "nlIXUMR5Q7G3vfRrP4jibw==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "David",
+            "lastName": "Adrian",
+            "occupation": "Doctoral Student",
+            "objectUrn": "urn:li:member:264013054",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-8hP4BXOGlGqnAkp4arhoSdanvw38kyY0",
+            "backgroundImage": null,
+            "publicIdentifier": "dbadrian",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=NECj-u8wZqNlPBshwUxwEL3inw67SR7d9TdjDHi25Yg",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=lObdFuKvK7C6Q8Oso68d3kOn14ex-K2H7R0rI-SSq5c",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=wy647RHitVypH1rp0xKtR4qwHDTin6DNAa873FFuZYY",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=RvACkH88cRqVvUMZE9ufVTaexb_exbnOX3_5KTN0uR0",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQEQBiOaxTVmcg/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "ZjEXQjerTvaanugZC5ObCA==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        },
+        {
+            "firstName": "Yamuna",
+            "lastName": "Rajaiah",
+            "occupation": "Intern at Bosch Center for Artificial Intelligence (BCAI)",
+            "objectUrn": "urn:li:member:285644518",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAABEGluYBgiHWDRt3kfI-vcucvN5Ic3RKEeQ",
+            "backgroundImage": null,
+            "publicIdentifier": "yamuna-rajaiah-65a7b37b",
+            "picture": {
+                "artifacts": [
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0?e=1573689600&amp;v=beta&amp;t=1huiAVN12wWA6wC4GDbewBrurXSjBJHv6g527f2-Yds",
+                        "expiresAt": 1573689600000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0?e=1573689600&amp;v=beta&amp;t=7NetEYVZJqlYuWstr-vL2ly5oGt33KGngHuzATZmavA",
+                        "expiresAt": 1573689600000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0?e=1573689600&amp;v=beta&amp;t=tiJ943C-WuKZUhHQJteeQZ5R5W1iubjFx6IFrj-Rzl8",
+                        "expiresAt": 1573689600000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "800_800/0?e=1573689600&amp;v=beta&amp;t=tfbor6PS6M1Dw7WHOhlih631yQtMZGiyb3NoLwgDizc",
+                        "expiresAt": 1573689600000,
+                        "height": 800,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGEYWpF5Gn53A/profile-displayphoto-shrink_",
+                "$type": "com.linkedin.common.VectorImage"
+            },
+            "trackingId": "iYynAKfoSGKe1t4s70iQEA==",
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+        }
+    ]
+}
